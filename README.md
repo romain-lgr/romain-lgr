@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**romain-lgr/romain-lgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Romain, I am full-stack web developer.
+I am based in Tokyo, Japan.
 
-Here are some ideas to get you started:
+Skills:
+- PHP
+- Laravel
+- Vue.js
+- TypeScript
+- Node.js
+- REST API, GraphQL
+- Devops
+- Git
+- CMS: CraftCMS, WordPress, Strapi, Statamic
+- Shopify
+- SEO
+- SaaS development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Laravel boilerplate that includes subscriptions, social auth, multi-tenancy, admin panels, layout selections
+- 🌱 I’m currently learning Flutter and working on improving my Typescript skills
+- 💬 Ask me about restaurants in Tokyo
+- 📫 How to reach me: Email or X
